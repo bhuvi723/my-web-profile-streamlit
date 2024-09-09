@@ -21,7 +21,7 @@ def certi():
             "desc" : "Certified from Swayam Govt of india!",
             
             # certificate
-            "cert" : r"images\dbms.jpg"
+            "cert" : r"images/dbms.jpg"
         },
         2 : {
             # title
@@ -31,7 +31,7 @@ def certi():
             "desc" : "Certified by Internshala!",
             
             # certificate
-            "cert" : r"images\machine_learning.jpg"
+            "cert" : r"images/machine_learning.jpg"
         },
         3 : {
             # title
@@ -41,7 +41,7 @@ def certi():
             "desc" : "Certified by Hacker rank!",
             
             # certificate
-            "cert" : r"images\hackerrank.png"
+            "cert" : r"images/hackerrank.png"
         }
     }
     

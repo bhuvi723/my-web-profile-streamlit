@@ -28,7 +28,7 @@ def about_me():
     
     with col2:
     
-        img_path = r"images\my_pho.jpg"
+        img_path = r"images/my_pho.jpg"
         img = Image.open(img_path)
         img = img.resize((300,300))
         st.image(img,use_column_width=True)

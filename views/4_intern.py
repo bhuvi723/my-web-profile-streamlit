@@ -21,7 +21,7 @@ def intern():
             "projects" : "",
             
             #offer letter
-            "offer_letter" : r"images\offer_robo.jpg",
+            "offer_letter" : r"images/offer_robo.jpg",
             
             # internship certificate
             "certificate" : r""
